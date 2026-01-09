@@ -38,5 +38,5 @@ The goal of this project was to build a **clean, functional, and production-read
 
 ---
 
-## 📂 Project Structure
+
 
