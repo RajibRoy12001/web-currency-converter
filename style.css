@@ -105,9 +105,7 @@ button:hover {
   border-radius: 50%;
 }
 
-/* -------------------- */
 /* RESPONSIVE DESIGN */
-/* -------------------- */
 
 @media (max-width: 480px) {
   body {
@@ -154,3 +152,4 @@ button:hover {
   --accent-primary: #2563eb;
   --accent-hover: #1d4ed8;
 }
+
