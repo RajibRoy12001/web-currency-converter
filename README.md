@@ -1,2 +1,3 @@
 # web-currency-converter
-A simple currency converter application using HTML, CSS, and JavaScript with real-time exchange rates.
+Modern currency converter web app built with HTML, CSS, and JavaScript using real-time exchange rates and light/dark mode.
+
